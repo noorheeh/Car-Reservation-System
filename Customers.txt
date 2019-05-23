@@ -1,0 +1,10 @@
+{
+  "address" : "Hebron",
+  "name" : "noor",
+  "birthday" : "12/05/1999",
+  "pass" : "noor",
+  "idnum" : "123456789",
+  "gender" : "Male",
+  "userName" : "noor",
+  "phoneNum" : "0598554"
+}

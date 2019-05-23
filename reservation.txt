@@ -1,0 +1,89 @@
+[ {
+  "customer" : {
+    "address" : "Hebron",
+    "name" : "noor",
+    "gender" : "Male",
+    "birthday" : "12/05/1999",
+    "phoneNum" : "0598554",
+    "idnum" : "123456789",
+    "pass" : "noor",
+    "userName" : "noor"
+  },
+  "car" : {
+    "model" : "Challenger",
+    "color" : "White",
+    "year" : "2019",
+    "brand" : "Dodge",
+    "seating" : 5,
+    "engin" : "5.7LV-8",
+    "price" : 130
+  },
+  "startDate" : "24/05/2019",
+  "endDate" : "30/05/2019"
+}, {
+  "customer" : {
+    "address" : "Hebron",
+    "name" : "noor",
+    "gender" : "Male",
+    "birthday" : "12/05/1999",
+    "phoneNum" : "0598554",
+    "idnum" : "123456789",
+    "pass" : "noor",
+    "userName" : "noor"
+  },
+  "car" : {
+    "model" : "Challenger",
+    "color" : "White",
+    "year" : "2019",
+    "brand" : "Dodge",
+    "seating" : 5,
+    "engin" : "5.7LV-8",
+    "price" : 130
+  },
+  "startDate" : null,
+  "endDate" : null
+}, {
+  "customer" : {
+    "address" : "Hebron",
+    "name" : "noor",
+    "gender" : "Male",
+    "birthday" : "12/05/1999",
+    "phoneNum" : "0598554",
+    "idnum" : "123456789",
+    "pass" : "noor",
+    "userName" : "noor"
+  },
+  "car" : {
+    "model" : "C 63",
+    "color" : "Black",
+    "year" : "2019",
+    "brand" : "Mercedes",
+    "seating" : 5,
+    "engin" : "4.0LV-8",
+    "price" : 110
+  },
+  "startDate" : "24/05/2019",
+  "endDate" : "28/05/2019"
+}, {
+  "customer" : {
+    "address" : "Hebron",
+    "name" : "noor",
+    "gender" : "Male",
+    "birthday" : "12/05/1999",
+    "phoneNum" : "0598554",
+    "idnum" : "123456789",
+    "pass" : "noor",
+    "userName" : "noor"
+  },
+  "car" : {
+    "model" : "C 63",
+    "color" : "Black",
+    "year" : "2019",
+    "brand" : "Mercedes",
+    "seating" : 5,
+    "engin" : "4.0LV-8",
+    "price" : 110
+  },
+  "startDate" : "24/05/2019",
+  "endDate" : "28/05/2019"
+} ]
